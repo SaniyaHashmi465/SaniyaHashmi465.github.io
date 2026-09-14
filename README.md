@@ -7,7 +7,7 @@ Open `index.html` directly, or use VS Code + Live Server.
 
 ## Deploy on GitHub Pages
 1. Create a public repository named `SaniyaHashmi465.github.io` on GitHub.
-2. Upload all files from this folder (including `assets/profile.jpg`).
+2. Upload all files from this folder (including `assets/Image.jpeg`).
 3. Go to **Settings → Pages**.
 4. Under **Build and deployment**, choose **Deploy from a branch**.
 5. Select `main` and `/ (root)`, then **Save**.
