@@ -15,3 +15,20 @@
     object-position: center;
     filter: saturate(.9);
 }
+.profile-photo-wrap {
+    height: auto !important;
+    min-height: 320px;
+    overflow: visible !important;
+    border-radius: 17px;
+    background: #202735;
+}
+
+.profile-photo {
+    display: block;
+    width: 100% !important;
+    height: auto !important;
+    max-height: none !important;
+    object-fit: contain !important;
+    object-position: center !important;
+    border-radius: 17px;
+}
