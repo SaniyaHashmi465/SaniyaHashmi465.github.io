@@ -2,7 +2,7 @@
 
 .project-kicker{font-size:.68rem;letter-spacing:.16em;text-transform:uppercase;font-weight:700;margin-bottom:8px;opacity:.72}.project-detail{font-size:.86rem!important;opacity:.78}.current-build{margin-top:28px;padding:24px;border:1px solid rgba(255,255,255,.12);border-radius:20px;background:linear-gradient(135deg,rgba(140,255,0,.07),rgba(255,255,255,.025));display:flex;align-items:center;justify-content:space-between;gap:24px}.current-build-label{font-size:.68rem;letter-spacing:.16em;font-weight:800;opacity:.65}.current-build h3{margin:7px 0 6px}.current-build p{margin:0;max-width:720px;opacity:.72}.current-build .outline-link{white-space:nowrap}@media(max-width:700px){.current-build{flex-direction:column;align-items:flex-start}.current-build .outline-link{white-space:normal}}
 .profile-photo-wrap {
-    height: 360px !important;
+    height: 420px !important;
     overflow: hidden !important;
     border-radius: 17px;
     background: #202735;
