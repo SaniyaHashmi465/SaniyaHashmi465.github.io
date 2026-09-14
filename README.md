@@ -1,6 +1,6 @@
 # Saniya Hashmi — Developer Portfolio
 
-A responsive, recruiter-focused portfolio built with plain HTML, CSS and JavaScript.
+A responsive, polished portfolio built with plain HTML, CSS and JavaScript.
 
 ## Run locally
 Open `index.html` directly, or use VS Code + Live Server.
