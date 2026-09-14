@@ -15,6 +15,5 @@ Open `index.html` directly, or use VS Code + Live Server.
 
 ## Links included
 - GitHub: https://github.com/SaniyaHashmi465
-- CodeAlpha projects: https://github.com/SaniyaHashmi465/codealpha_tasks
 - LinkedIn: https://www.linkedin.com/in/saniya-hashmi/
 - Email: saniyahashmi870@gmail.com
